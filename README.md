@@ -1,2 +1,3 @@
 # Calendar-System
-Our school's calendar system
+科内のカレンダーシステム
+機能：リマインダー、テスト予定、予定の列挙等
